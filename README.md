@@ -13,3 +13,5 @@ or Manually as below:
 Install rclone from http://www.rclone.org/install/  
 Install pexect with : `pip install pexpect`
 
+Usage:  
+`./sync_gDrive_demo.py`
